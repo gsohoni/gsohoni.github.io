@@ -1,0 +1,6 @@
+<span id=“a">gsohoni@victorcode.com</span>:<span id="b">~</span><span id="c">$</span> cat myinfo.txt<br/><br/>
+<VLINK=“#00FF00”>Hi, I'm Gaurav Sohoni.<!-- laglaglaglaglaglaglaglaglaglaglaglag —><p>I am a Software developer!.</p><!— qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>I enjoy working on web technologies, primarily using Ruby on Rails</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+
+If you would like to get in touch to say Hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href=“mailto:gaurav@victorcode.com">gaurav@victorcode.com</a>
+<p>See ya soon.</p>
